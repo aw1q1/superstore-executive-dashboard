@@ -12,7 +12,7 @@ An enterprise-grade, interactive executive dashboard built entirely in Microsoft
 
 | Default State (Overview) | Filtered State (Interactivity Proof) |
 | :---: | :---: |
-| ![Dashboard Overview](assets/dashboard-overview.png) | ![Dashboard Filtered](assets/dashboard-filtered.png) |
+| ![Dashboard Overview](assets/Dashboard_Executive_View.jpg) | ![Dashboard Filtered](assets/Dashboard_Interactive_Filtered.jpg) |
 
 ---
 
